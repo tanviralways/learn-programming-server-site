@@ -1,0 +1,26 @@
+[
+  {
+    "id": "01",
+    "name": "The Ultimate JavaScript Series"
+  },
+  {
+    "id": "02",
+    "name": "Complete Python Mastery"
+  },
+  {
+    "id": "03",
+    "name": "The Ultimate C++ Series"
+  },
+  {
+    "id": "04",
+    "name": "The Ultimate HTML/CSS Mastery Series"
+  },
+  {
+    "id": "05",
+    "name": "The Ultimate Java Mastery Series"
+  },
+  {
+    "id": "06",
+    "name": "The Ultimate React Native Series"
+  }
+]
